@@ -4,10 +4,16 @@ Hello! I’m Abishek Kenneth, a full stack developer with a deep passion for bui
 
 
 - 🔭 I’m currently working on Chatbot 
-- 🌱 I’m currently learning Angular 
+- 🌱 I’m currently learning Angular ![icons8-css-480](https://github.com/abi1035/abi1035/assets/107182926/c007b4c7-bd91-4aa5-b978-eb27af904143)
+
+![icons8-mongo-db-96](https://github.com/abi1035/abi1035/assets/107182926/f37fdc4c-31e2-4995-9ceb-83cf78c566de)
+![icons8-postgre-sql-a-free-and-open-source-relational-database-management-system-96](https://github.com/abi1035/abi1035/assets/107182926/a8efec13-21a1-4f9b-a081-46fe110be84b)
 
 
-<img src="https://github.com/abi1035/abi1035/assets/107182926/816d875d-ba08-4069-b243-422c8f7fbee4" width="70" height="70"/> Skills <br />
+<img src="https://github.com/abi1035/abi1035/assets/107182926/816d875d-ba08-4069-b243-422c8f7fbee4" width="70" height="70"/> Tech Stack <br />
+
+<img src="https://github.com/abi1035/abi1035/assets/107182926/631538a2-4671-4bdc-897b-713778bd0965" width="100" height="100"/>
+<img src="https://github.com/abi1035/abi1035/assets/107182926/09769330-6403-4ef4-b254-c4738e0ee565" width="100" height="100"/>
 
 <img src="https://github.com/abi1035/abi1035/assets/107182926/631538a2-4671-4bdc-897b-713778bd0965" width="100" height="100"/>
 <img src="https://github.com/abi1035/abi1035/assets/107182926/1e08fdd7-0cdb-4b05-9ea2-078f00ed8e0b" width="100" height="100"/>
@@ -17,6 +23,9 @@ Hello! I’m Abishek Kenneth, a full stack developer with a deep passion for bui
 <img src="https://github.com/abi1035/abi1035/assets/107182926/bad0e21b-c07e-44e9-aa67-1c37fff84638" width="100" height="100"/>
 <img src="https://github.com/abi1035/abi1035/assets/107182926/c4221812-1154-4426-ab85-4e4557ed40d9" width="100" height="100"/>
 <img src="https://github.com/abi1035/abi1035/assets/107182926/bb61a342-c2ac-4b1b-801e-ae867aef9b9a" width="100" height="100"/>
+
+<img src="https://github.com/abi1035/abi1035/assets/107182926/631538a2-4671-4bdc-897b-713778bd0965" width="100" height="100"/>
+<img src="https://github.com/abi1035/abi1035/assets/107182926/631538a2-4671-4bdc-897b-713778bd0965" width="100" height="100"/>
 
 
 
