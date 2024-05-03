@@ -8,6 +8,6 @@ Hello! I’m Abishek Kenneth, a full stack developer with a deep passion for bui
 - 🔭 I’m currently working on Chatbot 
 - 🌱 I’m currently learning Angular 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abi1035&repo=github-readme-stats)](https://github.com/abi1035/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/abi1035)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/abishek-kenneth/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/abishek.kenneth)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/abi_ken_14//)  
