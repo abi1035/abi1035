@@ -23,6 +23,9 @@ Hello! I’m Abishek Kenneth, a full stack developer with a deep passion for bui
 
 
 
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abi1035&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/abi1035)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/abishek-kenneth/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/abishek.kenneth)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/abi_ken_14//)  
+[  [<img src='https://github.com/abi1035/abi1035/assets/107182926/1d61c11b-e234-44f1-813a-9fb2dea9f25b' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/abishek-kenneth/)  [<img src='https://github.com/abi1035/abi1035/assets/107182926/0cc9669c-d689-43b0-afc4-1bd8053d1d30' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/abishek.kenneth)  [<img src='https://github.com/abi1035/abi1035/assets/107182926/3b15f285-1883-4352-938e-067bbdad5488' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/abi_ken_14//)  
