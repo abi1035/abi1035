@@ -5,6 +5,7 @@ Hello! I’m Abishek Kenneth, a full stack developer with a deep passion for bui
 
 
 <img src="https://github.com/abi1035/abi1035/assets/107182926/816d875d-ba08-4069-b243-422c8f7fbee4" width="70" height="70"/> Tech Stack <br />
+![FadingLine](https://github.com/abi1035/abi1035/assets/107182926/afb7eac9-86c5-4884-9a5d-2d909d5b5c7f)
 
 
 <img src="https://github.com/abi1035/abi1035/assets/107182926/09769330-6403-4ef4-b254-c4738e0ee565" width="100" height="100"/>
@@ -27,11 +28,15 @@ Hello! I’m Abishek Kenneth, a full stack developer with a deep passion for bui
 
 
 
-
+![Git](https://github.com/abi1035/abi1035/assets/107182926/ebc1ffd2-5dbd-43d9-a9cb-994f3811d3fe) Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abi1035&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on Chatbot 
 - 🌱 I’m currently learning Angular
 
-[  [<img src='https://github.com/abi1035/abi1035/assets/107182926/1d61c11b-e234-44f1-813a-9fb2dea9f25b' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/abishek-kenneth/)  [<img src='https://github.com/abi1035/abi1035/assets/107182926/0cc9669c-d689-43b0-afc4-1bd8053d1d30' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/abishek.kenneth)  [<img src='https://github.com/abi1035/abi1035/assets/107182926/3b15f285-1883-4352-938e-067bbdad5488' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/abi_ken_14//)  
+
+Socials
+![FadingLine](https://github.com/abi1035/abi1035/assets/107182926/afb7eac9-86c5-4884-9a5d-2d909d5b5c7f)
+
+[<img src='https://github.com/abi1035/abi1035/assets/107182926/1d61c11b-e234-44f1-813a-9fb2dea9f25b' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/abishek-kenneth/)  [<img src='https://github.com/abi1035/abi1035/assets/107182926/0cc9669c-d689-43b0-afc4-1bd8053d1d30' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/abishek.kenneth)  [<img src='https://github.com/abi1035/abi1035/assets/107182926/3b15f285-1883-4352-938e-067bbdad5488' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/abi_ken_14//)  
