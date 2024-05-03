@@ -40,4 +40,4 @@ Socials
 ![FadingLine](https://github.com/abi1035/abi1035/assets/107182926/afb7eac9-86c5-4884-9a5d-2d909d5b5c7f)
 
 [<img src='https://github.com/abi1035/abi1035/assets/107182926/1d61c11b-e234-44f1-813a-9fb2dea9f25b' alt='linkedin' height='70'>](https://www.linkedin.com/in/www.linkedin.com/in/abishek-kenneth/)  [<img src='https://github.com/abi1035/abi1035/assets/107182926/0cc9669c-d689-43b0-afc4-1bd8053d1d30' alt='facebook' height='70'>](https://www.facebook.com/https://www.facebook.com/abishek.kenneth)  [<img src='https://github.com/abi1035/abi1035/assets/107182926/3b15f285-1883-4352-938e-067bbdad5488' alt='instagram' height='70'>](https://www.instagram.com/https://www.instagram.com/abi_ken_14//)  
-![FadingLine](https://github.com/abi1035/abi1035/assets/107182926/afb7eac9-86c5-4884-9a5d-2d909d5b5c7f)
+
