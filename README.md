@@ -9,7 +9,8 @@ Hello! I’m Abishek Kenneth, a full stack developer with a deep passion for bui
 
 Skills <br />
 
-![Javascript]<img src="https://github.com/abi1035/abi1035/assets/107182926/631538a2-4671-4bdc-897b-713778bd0965" width="250" height="250"/>
+//[Javascript]
+<img src="https://github.com/abi1035/abi1035/assets/107182926/631538a2-4671-4bdc-897b-713778bd0965" width="100" height="100"/>
 <img src="/images/output/video1.gif" width="250" height="250"/>
 <img src="/images/output/video1.gif" width="250" height="250"/>
 <img src="/images/output/video1.gif" width="250" height="250"/>
