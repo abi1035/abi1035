@@ -4,12 +4,13 @@ Hello! I’m Abishek Kenneth, a full stack developer with a deep passion for bui
 
 ![FadingLine](https://github.com/abi1035/abi1035/assets/107182926/afb7eac9-86c5-4884-9a5d-2d909d5b5c7f)
 
-<img src="https://github.com/abi1035/abi1035/assets/107182926/816d875d-ba08-4069-b243-422c8f7fbee4" width="70" height="70"/> Tech Stack <br />
+<img src="https://github.com/abi1035/abi1035/assets/107182926/816d875d-ba08-4069-b243-422c8f7fbee4" width="70" height="70"/> ###Tech Stack <br />
 ![FadingLine](https://github.com/abi1035/abi1035/assets/107182926/afb7eac9-86c5-4884-9a5d-2d909d5b5c7f)
 
 
-<img src="https://github.com/abi1035/abi1035/assets/107182926/09769330-6403-4ef4-b254-c4738e0ee565" width="100" height="100"/>
-<img src="https://github.com/abi1035/abi1035/assets/107182926/c007b4c7-bd91-4aa5-b978-eb27af904143" width="100" height="100"/>
+
+<img src="https://github.com/abi1035/abi1035/assets/107182926/4470d709-0267-4cf7-bfa5-a8d42615cc39" width="100" height="100"/>
+<img src="https://github.com/abi1035/abi1035/assets/107182926/f7d6db4d-8830-4213-8512-83b994e81a54" width="100" height="100"/>
 <img src="https://github.com/abi1035/abi1035/assets/107182926/631538a2-4671-4bdc-897b-713778bd0965" width="100" height="100"/>
 <img src="https://github.com/abi1035/abi1035/assets/107182926/1e08fdd7-0cdb-4b05-9ea2-078f00ed8e0b" width="100" height="100"/>
 <img src="https://github.com/abi1035/abi1035/assets/107182926/72abdfd5-30e1-4a44-8745-2fcd2c66ab4f" width="100" height="100"/>
@@ -26,17 +27,22 @@ Hello! I’m Abishek Kenneth, a full stack developer with a deep passion for bui
 
 ![FadingLine](https://github.com/abi1035/abi1035/assets/107182926/afb7eac9-86c5-4884-9a5d-2d909d5b5c7f)
 
-<img src="https://github.com/abi1035/abi1035/assets/107182926/ebc1ffd2-5dbd-43d9-a9cb-994f3811d3fe" width="70" height="70"/>Github Stats
+<img src="https://github.com/abi1035/abi1035/assets/107182926/d4747472-a293-4b18-8973-f09f0e3ecf9c" width="70" height="70"/>###Github Stats
 ![FadingLine](https://github.com/abi1035/abi1035/assets/107182926/afb7eac9-86c5-4884-9a5d-2d909d5b5c7f)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abi1035&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on Chatbot 
+![FadingLine](https://github.com/abi1035/abi1035/assets/107182926/afb7eac9-86c5-4884-9a5d-2d909d5b5c7f)
+<img src="https://github.com/abi1035/abi1035/assets/107182926/b21a8ce9-2440-40af-8dd7-60d371e86814" width="70" height="70"/>###Building
+![FadingLine](https://github.com/abi1035/abi1035/assets/107182926/afb7eac9-86c5-4884-9a5d-2d909d5b5c7f)
+
+
+- 🔭 I’m currently working on Chatbot ![chatbot](https://github.com/abi1035/abi1035/assets/107182926/859d2994-0c2c-4922-9b92-6d9f665d7f3c)
 - 🌱 I’m currently learning Angular
 
 
 ![FadingLine](https://github.com/abi1035/abi1035/assets/107182926/afb7eac9-86c5-4884-9a5d-2d909d5b5c7f)
-Socials
+<img src="https://github.com/abi1035/abi1035/assets/107182926/e663222a-722f-4b2c-a467-2704ce028d4a" width="70" height="70"/>###Socials
 ![FadingLine](https://github.com/abi1035/abi1035/assets/107182926/afb7eac9-86c5-4884-9a5d-2d909d5b5c7f)
 
 [<img src='https://github.com/abi1035/abi1035/assets/107182926/1d61c11b-e234-44f1-813a-9fb2dea9f25b' alt='linkedin' height='70'>](https://www.linkedin.com/in/abishek-kenneth/)  [<img src='https://github.com/abi1035/abi1035/assets/107182926/0cc9669c-d689-43b0-afc4-1bd8053d1d30' alt='facebook' height='70'>](https://www.facebook.com/abishek.kenneth)  [<img src='https://github.com/abi1035/abi1035/assets/107182926/3b15f285-1883-4352-938e-067bbdad5488' alt='instagram' height='70'>](https://www.instagram.com/abi_ken_14//)  
